@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm swetha m kulkarni</h1>
-<h3 align="center">A passionate AI learner</h3>
+<h1 align="center"> Swetha M Kulkarni</h1>
+<h3 align="center">A passionate AI learner pursuing master's in AI at Aston University, Birmingham, United Kingdom. A CSE graduate</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
